@@ -1,0 +1,18 @@
+
+
+.content {
+    border: 5px solid #009688;
+    display: inline-flex;
+    padding: 10px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    .result {
+        padding: 30px;
+        font-size: 30px;
+        width: 120px;
+        text-align: center;
+        color: #2196F3;
+    }
+}
